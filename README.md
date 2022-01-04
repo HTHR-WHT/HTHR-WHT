@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a hackathon project and studying data structures & algorithms.
+- 🌱 I’m currently learning processing, p5.js, three.js, and material UI.
