@@ -19,7 +19,7 @@
 
 <br></br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HTHR-WHT&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HTHR-WHT&count_private=true&theme=tokyonight_day&showicons=true)]()
 <!--- 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HTHR-WHT&langs_count=5&theme=tokyonight)]()
 -->
