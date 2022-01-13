@@ -1,7 +1,7 @@
 ### Hello. Hey. Haiii. 👋
 
 - :nerd_face: I'm Heather, an artist and fullstack software engineer.
-- :bulb: I’m currently working on a hackathon project and studying data structures & algorithms.
+- :bulb: I’m currently working on building a mobile app and studying data structures & algorithms.
 - :books: Right now I'm learning processing, p5.js, three.js, and material UI...next up: typescript & python.
 - :computer: Languages & Tools:
 
