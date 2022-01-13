@@ -2,7 +2,7 @@
 
 - :nerd_face: I'm Heather, an artist and fullstack software engineer.
 - :bulb: I’m currently working on building a mobile app and studying data structures & algorithms.
-- :books: Right now I'm learning processing, p5.js, three.js, and material UI...next up: typescript & python.
+- :books: Right now I'm learning react native, firebase, and material UI...next up: typescript & python.
 - :computer: Languages & Tools:
 
 <img align="left" img src="https://img.icons8.com/ios/50/000000/javascript--v1.png"/>
