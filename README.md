@@ -2,7 +2,7 @@
 
 - :nerd_face: I'm Heather, an artist and fullstack software engineer.
 - :bulb: I’m currently working on building a mobile app and studying data structures & algorithms.
-- :books: Right now I'm learning react native, firebase, and material UI...next up: typescript & python.
+- :books: Right now I'm learning react native, firebase, and MUI...next up: typescript & python.
 - :computer: Languages & Tools:
 
 <img align="left" img src="https://img.icons8.com/ios/50/000000/javascript--v1.png"/>
@@ -19,7 +19,7 @@
 
 <br></br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HTHR-WHT&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HTHR-WHT&count_private=true&theme=swift&show_icons=true)]()
 - 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HTHR-WHT&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HTHR-WHT&layout=compact&langs_count=5&theme=swift)]()
 
