@@ -1,4 +1,4 @@
-### Hello. Hey. Haiii. 👋
+### Howdy. 👋
 
 - :nerd_face: I'm Heather, an artist and fullstack software engineer.
 - :bulb: I’m currently job hunting for a SWE role, and studying data structures & algorithms.
