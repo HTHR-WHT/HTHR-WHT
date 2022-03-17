@@ -5,18 +5,18 @@
 - :books: Right now I'm building my web dev portfolio & learning python... next up: typescript!
 - :computer: Languages & Tools:
 
-<img align="left" img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
-<img align="left" img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
-<img align="left" img src="https://img.icons8.com/dusk/64/000000/css3.png"/>
-<img align="left" img src="https://img.icons8.com/dusk/64/000000/react.png"/>
-<img align="left" img src="https://img.icons8.com/color/64/000000/redux.png"/>
-<img align="left" img src="https://img.icons8.com/color/64/000000/nodejs.png"/>
-<img align="left" img src="https://img.icons8.com/nolan/64/git.png"/>
-<img align="left" img src="https://img.icons8.com/dusk/64/000000/github.png"/>
-<img align="left" img src="https://img.icons8.com/nolan/64/heroku.png"/>
-<img align="left" img src="https://img.icons8.com/color/64/000000/postgreesql.png"/>
-<img align="left" img src="https://img.icons8.com/dusk/64/000000/webpack.png"/>
-<img align="left" img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/000000/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png"/>
+<img align="left" img src="https://img.icons8.com/dusk/50/000000/javascript-logo.png"/>
+<img align="left" img src="https://img.icons8.com/dusk/50/000000/html-5.png"/>
+<img align="left" img src="https://img.icons8.com/dusk/50/000000/css3.png"/>
+<img align="left" img src="https://img.icons8.com/dusk/50/000000/react.png"/>
+<img align="left" img src="https://img.icons8.com/color/50/000000/redux.png"/>
+<img align="left" img src="https://img.icons8.com/color/50/000000/nodejs.png"/>
+<img align="left" img src="https://img.icons8.com/nolan/50/git.png"/>
+<img align="left" img src="https://img.icons8.com/dusk/50/000000/github.png"/>
+<img align="left" img src="https://img.icons8.com/nolan/50/heroku.png"/>
+<img align="left" img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
+<img align="left" img src="https://img.icons8.com/dusk/50/000000/webpack.png"/>
+<img align="left" img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png"/>
 
 <br></br>
 
