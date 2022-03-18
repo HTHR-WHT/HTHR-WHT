@@ -1,6 +1,6 @@
 ### Howdy. 👋
 
-- :nerd_face: I'm Heather, an artist and fullstack software engineer.
+- :nerd_face: I'm Heather, an artist and full stack software engineer.
 - :bulb: I’m currently job hunting for a SWE role, and studying data structures & algorithms.
 - :books: Right now I'm building my web dev portfolio & learning python... next up: typescript!
 - :computer: Languages & Tools:
