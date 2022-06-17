@@ -2,7 +2,7 @@
 
 - :nerd_face: I'm Heather, an artist and full stack software engineer.
 - :bulb: I’m currently job hunting for a SWE role, and studying data structures & algorithms.
-- :books: Right now I'm building my web dev portfolio & learning python... next up: typescript!
+- :books: Right now I'm researching and planning my next personal project to strengthen my current technical skills.
 - :computer: Languages & Tools:
 
 <img align="left" img src="https://img.icons8.com/dusk/45/000000/javascript-logo.png"/>
