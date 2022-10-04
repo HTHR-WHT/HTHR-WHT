@@ -19,8 +19,3 @@
 <img align="left" img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png"/>
 
 <br></br>
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HTHR-WHT&count_private=true&theme=calm&show_icons=true)]()
-- 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HTHR-WHT&layout=compact&langs_count=5&theme=calm)]()
-
